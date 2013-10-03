@@ -64,3 +64,17 @@ print str((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.d or
 ###
 
 # ... List your collaborators here, as a comment (on a line starting with "#").
+###Partners in Python Crime
+#Betsy Kelley
+#DJ Porter
+#Travis Malone
+
+###Reflections
+
+#This assignment took me roughly an hour and a half. (We completed the task at 
+#4:39 PM.) The readings, tutorials and lecture were helpful, although there were 
+#still a few sections where extra help (Google) was needed. I think at this time 
+#we were expected to have a small base of knowledge, as well as some intuition
+#that I do not neccessarily possess yet. It was also really quite terrifying submitting
+#a task that I had no answers for...this seems to be something that I will just have
+#to get used to at Evergreen.
